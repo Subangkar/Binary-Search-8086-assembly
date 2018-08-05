@@ -9,3 +9,8 @@ Run "Search.asm" to simulate it on an input array.
 
 Others helping PROCEDURE DESCRIPTION are in PROC_INFO.md
 
+
+
+
+Decimal Input/Output Procedures Code Adopted from Yu & Marut's "Assembly-Language-Programming-Organization-of-the-IBM-PC-1992"
+Codes Link: http://www.mcs.csueastbay.edu/~yu/book/
